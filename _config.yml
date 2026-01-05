@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:         pretty
+relative_permalinks: true
+
+# Setup
+title:             Pharmacy System
+tagline:           'نظام إدارة الصيدلية الذكي'
+description:       'موقع توثيق مشروع نظام إدارة الصيدلية - يهدف لتنظيم المخزون ومتابعة الوصفات الطبية.'
+url:               https://farahalotaibi1.github.io/hyde/
+baseurl:           /hyde
+
+author:
+  name:            'Farah Alotaibi'
+  url:             https://github.com/farahalotaibi1
+
+paginate:          5
+
+# Custom vars
+version:           1.0.0
+
+github:
+  repo:            https://github.com/farahalotaibi1/hyde
